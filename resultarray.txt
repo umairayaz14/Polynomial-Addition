@@ -1,0 +1,2 @@
+example1-10x5.txt
+Result : 4 Result : 2 Result : 0 Result : 4 Result : 2 
